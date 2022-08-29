@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kasia-omm
 - 👀 I’m interested in 🍰 ✈️ 📚 🧑‍🍳 ☕ 💻
-- 🌱 I’m currently learning HTML and CSS
+- 🌱 I’m currently learning HTML, CSS and JavaScript
 - 💞️ I’m looking to collaborate on something new
 - 📫 How to reach me @Kasia Mlynarska on Slack
 
